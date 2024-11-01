@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Cloud Architect (soon to be)
 ----------------------------------------------
 
-👨‍💻 Full-stack web whisperer, 2 years in the making. <br/>
-🎓 Former CS student (4 years) who dipped into just about everything—desktop apps, desktop games, and even 3 Android apps (yes, three!).<br/>
-🌐 Built several web apps along the way, including one with just HTML, CSS, and PHP (no frameworks, just vibes). Then came Laravel... until React and Node.js showed up to save me.<br/>
-🙌 💡 I thrive on challenges—because if I have to make one more button or set up another CRUD operation, I might just start talking to the server.
+👨‍💻 Full-stack web whisperer, 2 years in the making. <br/><br/>
+🎓 Former CS student (4 years) who dipped into just about everything—desktop apps, desktop games, and even 3 Android apps (yes, three!).<br/><br/>
+🌐 Built several web apps along the way, including one with just HTML, CSS, and PHP (no frameworks, just vibes). Then came Laravel... until React and Node.js showed up to save me.<br/><br/>
+🙌 💡 I thrive on challenges—because if I have to make one more button or set up another CRUD operation, I might just start talking to the server.<br/><br/>
 
 * ✉️  You can contact me at [gudlemohamed@gmail.com](mailto:gudlemohamed@gmail.com)
 * 🧠  I'm learning Golang to build amazing CLI's and API's
